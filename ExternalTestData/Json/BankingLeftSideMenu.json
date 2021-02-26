@@ -1,0 +1,33 @@
+{
+  "Sections": [
+    "My accounts",
+    "Payments",
+    "Payment requests"
+  ],
+  "Subsections": [
+    "Account information",
+    "Scheduled payments",
+    "Installments",
+    "External payments",
+    "Payment to user",
+    "Payment to system",
+    "Receive payment",
+    "Pay external user",
+    "Tickets",
+    "Search",
+    "Send to user"
+  ],
+  "Headings": [
+    "Member account",
+    "Scheduled payments",
+    "Scheduled payment installments",
+    "External payments",
+    "Payment to user",
+    "Payment to system account",
+    "Receive payment",
+    "External payment",
+    "Tickets",
+    "Payment requests",
+    "Request payment"
+  ]
+}
